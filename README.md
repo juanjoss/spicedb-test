@@ -1,0 +1,2 @@
+# spicedb-test
+SpiceDB example.
